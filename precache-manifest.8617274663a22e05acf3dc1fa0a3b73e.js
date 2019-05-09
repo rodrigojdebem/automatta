@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34821e4b2bbc136283ccbe3385b08da3",
+    "revision": "b88703ed093eac60fd7dd5f5f1123f2b",
     "url": "/automatta/index.html"
   },
   {
