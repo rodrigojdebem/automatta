@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/automatta/static/css/main.2cce8147.chunk.css",
-    "main.js": "/automatta/static/js/main.bf624219.chunk.js",
-    "main.js.map": "/automatta/static/js/main.bf624219.chunk.js.map",
+    "main.js": "/automatta/static/js/main.48b063aa.chunk.js",
+    "main.js.map": "/automatta/static/js/main.48b063aa.chunk.js.map",
     "runtime~main.js": "/automatta/static/js/runtime~main.a8b6a277.js",
     "runtime~main.js.map": "/automatta/static/js/runtime~main.a8b6a277.js.map",
     "static/js/2.3310f33a.chunk.js": "/automatta/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/automatta/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/automatta/index.html",
-    "precache-manifest.232a327f54bbb403adce4e01383e9ed4.js": "/automatta/precache-manifest.232a327f54bbb403adce4e01383e9ed4.js",
+    "precache-manifest.5e57f87ededa07f77907feee0d09aab6.js": "/automatta/precache-manifest.5e57f87ededa07f77907feee0d09aab6.js",
     "service-worker.js": "/automatta/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/automatta/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/automatta/static/media/logo.5d5d9eef.svg"

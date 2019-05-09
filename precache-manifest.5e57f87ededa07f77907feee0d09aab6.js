@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe5fa9900c6984692958dca24f3dd5fc",
+    "revision": "0bacc0f289dfde296834bcfecfdd579c",
     "url": "/automatta/index.html"
   },
   {
-    "revision": "c0ecbc95c51e6645910f",
+    "revision": "dd755f68894354de7c16",
     "url": "/automatta/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/automatta/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "c0ecbc95c51e6645910f",
-    "url": "/automatta/static/js/main.bf624219.chunk.js"
+    "revision": "dd755f68894354de7c16",
+    "url": "/automatta/static/js/main.48b063aa.chunk.js"
   },
   {
     "revision": "4719797a46e61a9eaf53",
